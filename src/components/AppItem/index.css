@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.appli {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 22vh;
+  width: 10vw;
+  background-color: white;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 0px;
+  margin: 10px;
+}
+.appimg {
+  width: 50px;
+}
+.app-p {
+}
